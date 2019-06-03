@@ -1,4 +1,4 @@
-# POTD-Serve 2
+# POTD-Server 2
 
 [POTD-Server](https://github.com/whichxjy/POTD-Server) 2.0, powered by Apache Thrift.
 
